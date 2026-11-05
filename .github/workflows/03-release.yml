@@ -20,7 +20,7 @@ jobs:
       - name: Install XeLaTeX and PDF tools
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended lmodern fonts-texgyre poppler-utils
+          sudo apt-get install -y --no-install-recommends texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended lmodern fonts-texgyre poppler-utils python3-cairosvg
           fc-cache -f
           # TeX Live may install TeX Gyre fonts outside /usr/share/fonts.
           # Verify the resolved font family instead of assuming a filesystem location.
@@ -29,6 +29,8 @@ jobs:
         shell: bash
         run: |
           [[ "${GITHUB_REF_NAME}" =~ ^v[0-9]+\.[0-9]+\.[0-9]+([+-][0-9A-Za-z.-]+)?$ ]] || { echo "Taggen måste vara v<SemVer>" >&2; exit 1; }
+      - name: Verify SVG conversion dependency
+        run: python3 -c 'import cairosvg; print("CairoSVG", cairosvg.__version__)'
       - name: Build EPUB and PDF
         env:
           BOOK_RELEASE_TAG: ${{ github.ref_name }}
