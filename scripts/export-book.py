@@ -87,7 +87,9 @@ def image_transform_for(fmt, workdir):
 
 def run(cmd): print('+',' '.join(map(str,cmd))); subprocess.run(cmd,cwd=ROOT,check=True)
 def find_font_dir():
-    for base in (Path('/usr/share/fonts'),Path('/usr/local/share/fonts')):
+    # TeX Gyre OTF files supplied by Ubuntu's fonts-texgyre package live in
+    # /usr/share/texmf, not necessarily in the fontconfig system font paths.
+    for base in (Path('/usr/share/fonts'), Path('/usr/local/share/fonts'), Path('/usr/share/texmf')):
         if base.exists():
             for p in base.rglob('texgyrepagella-regular.otf'):
                 names=['texgyrepagella-regular.otf','texgyrepagella-bold.otf','texgyrepagella-italic.otf','texgyrepagella-bolditalic.otf']
