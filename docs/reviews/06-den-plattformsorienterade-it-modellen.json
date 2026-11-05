@@ -1,0 +1,26 @@
+{
+  "blockers": [],
+  "chapter": "06-den-plattformsorienterade-it-modellen.md",
+  "chapter_sha256": "57da4efdd3ce6a6446f3057329bf5bf0025b7f05883816f5442d0814cf59da5a",
+  "checks": {
+    "audience": "passed",
+    "consistency": "passed",
+    "editorial": "passed",
+    "facts": "passed",
+    "illustrations": "passed",
+    "language": "passed",
+    "sources": "passed",
+    "structure": "passed"
+  },
+  "editorial_decision": "Godkänt efter riktad intern omgranskning av illustrationsrensningen. Ej oberoende vetenskaplig faktagranskning.",
+  "notes": [
+    "Inga nya empiriska påståenden införda. Tidigare faktaunderlag och K-hänvisningar kvarstår där de är relevanta.",
+    "Kvarvarande illustrationer är endast IMG-10-01 och IMG-11-01. Inga saknade figurreferenser i det ändrade kapitlet."
+  ],
+  "project_revision_at_review": 27,
+  "review_mode": "auto",
+  "review_scope": "Avgränsad redaktionell omgranskning revision 0028: figur- och bildtextsborttagning, självständig läsbarhet, språk, struktur, faktaintegritet samt kvarvarande referenser. Ingen ny primärkällerevision.",
+  "status": "approved_auto",
+  "summary": "Figur och tillhörande hänvisning borttagen; kvarvarande sakliga resonemang bevarade i fristående löptext. Kapiteltext och referenser genomlästa för denna avgränsade ändring.",
+  "updated_at": "2026-11-05T05:25:02+00:00"
+}

@@ -1,0 +1,42 @@
+title: "Från systemdrift till digital självständighet"
+subtitle: "Fyra generationer av IT – arkitektur, ansvar och vägen till AI-driven verksamhetsutveckling"
+author: "Erland Lindmark"
+language: "sv"
+book_kind: "factbook"
+book_type: "analytical_factbook"
+difficulty: "experienced"
+audience: "Beslutsfattare, organisationsutvecklare och teknik- och arkitekturläsare i större organisationer"
+edition: "1"
+version: "0.1"
+date: "2026-11-04"
+rights: "All rights reserved"
+publisher: ""
+cover_image: "assets/cover/omslag-godkant.png"
+pdf_size: "170x240"
+identifier: "urn:uuid:ea6e6be2-871e-4d7c-a3cb-9d1ac9294402"
+subject: "IT-arkitektur, ansvar, modernisering, plattformar och AI-driven digital utveckling"
+description: "Faktabok om fyra analytiska IT-generationer och förflyttningar i arkitektur och ansvar."
+project_slug: "fran-systemdrift-till-digital-sjalvstandighet"
+chapters:
+  - chapters/00-inledning.md
+  - chapters/01-den-traditionella-it-modellen.md
+  - chapters/02-forflyttningen-till-distribuerade-it-stod.md
+  - chapters/03-den-distribuerade-it-miljon.md
+  - chapters/04-nar-ansvar-och-arkitektur-inte-langre-passar-ihop.md
+  - chapters/05-forflyttningen-till-plattformsorienterad-it.md
+  - chapters/06-den-plattformsorienterade-it-modellen.md
+  - chapters/07-en-ny-ansvarsfordelning.md
+  - chapters/08-forflyttningen-till-verksamhetsdriven-utveckling.md
+  - chapters/09-den-ai-drivna-och-verksamhetsnara-it-modellen.md
+  - chapters/10-it-avdelningens-framtida-uppgift.md
+  - chapters/11-att-valja-ratt-nasta-steg.md
+  - chapters/99-kallregister.md
+exports:
+  epub:
+    enabled: true
+    include_text_toc: false
+    toc_depth: 1
+  pdf:
+    enabled: true
+    include_toc_before_introduction: true
+    toc_depth: 3

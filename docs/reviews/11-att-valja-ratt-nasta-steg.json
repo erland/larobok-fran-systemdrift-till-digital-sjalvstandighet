@@ -1,0 +1,28 @@
+{
+  "blockers": [],
+  "chapter": "11-att-valja-ratt-nasta-steg.md",
+  "chapter_sha256": "981bc59ae38add546dacce119824c991cdd5c5cda2fa2d78c404efc2129bb39d",
+  "checks": {
+    "audience": "passed",
+    "consistency": "passed",
+    "editorial": "passed",
+    "facts": "passed",
+    "illustrations": "passed",
+    "language": "passed",
+    "sources": "passed",
+    "structure": "passed"
+  },
+  "editorial_decision": "Godkänt efter riktad intern omgranskning inom revision 0025. Ej oberoende vetenskaplig faktagranskning.",
+  "notes": [
+    "Gjort teknik-ansvarssamband explicita för grundförmågor, tjänstegränser, plattform och AI; komprimerat målgruppsorienteringen.",
+    "Inga nya empiriska eller tidskänsliga påståenden tillagda. Befintliga K-hänvisningar verifierade mot projektets register; ingen ny fullständig primärkällerevision gjord.",
+    "SVG-referenser och alla tolv diagram passerade projektets deterministiska kontroll; illustrationernas innehåll har inte ändrats.",
+    "Figurernas läsbarhet i faktisk PDF/EPUB återstår att kontrollera."
+  ],
+  "project_revision_at_review": 24,
+  "review_mode": "auto",
+  "review_scope": "Riktad kapitelrevision r0025: språk, struktur, kapitelgränser, ansvar och tekniska förmågor, faktapåståenden och K-ID, oförändrade illustrationer, läsarfärdighet.",
+  "status": "approved_auto",
+  "summary": "Gjort teknik-ansvarssamband explicita för grundförmågor, tjänstegränser, plattform och AI; komprimerat målgruppsorienteringen. Avstämt mot relevanta grannkapitel och bokplan; kapiteltexten är fortsatt läsarfärdig.",
+  "updated_at": "2026-11-04T20:42:12+00:00"
+}

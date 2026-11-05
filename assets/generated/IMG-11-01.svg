@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title description">
+<title id="title">IMG-11-01 Beslutsmodell för förändring</title><desc id="description">Flödesmodell med tre möjliga vägar för IT-modernisering och fem beredskapskontroller innan större förflyttning.</desc>
+<defs><marker id="arr" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#6a829e"/></marker></defs>
+<rect width="1200" height="820" fill="#f7f9fc"/>
+
+<text x="50" y="40" text-anchor="start" font-size="29" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#183650">IMG-11-01  ·  Välj rätt nästa steg</text>
+<text x="50" y="68" text-anchor="start" font-size="16" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#45617c">Utgå från verksamhetens problem, inte från en viss arkitektur eller teknisk trend</text>
+<rect x="290" y="96" width="620" height="88" rx="18" fill="#eaf1fa" stroke="#82a1c5" stroke-width="2"/>
+<text x="600" y="132" text-anchor="middle" font-size="20" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#254462">1. Finns ett verifierat problem eller ett tydligt nytt behov?</text>
+<text x="600" y="158" text-anchor="middle" font-size="16" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#254462">Kartlägg effekt, frekvens, orsak och vad som redan fungerar</text>
+<polyline points="600,184 600,219" fill="none" stroke="#6a829e" stroke-width="2.5"  marker-end="url(#arr)"/>
+<rect x="326" y="219" width="548" height="75" rx="16" fill="#ffffff" stroke="#95acc6" stroke-width="2"/>
+<text x="600" y="248" text-anchor="middle" font-size="19" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#254462">2. Kan nuvarande lösning möta behovet</text>
+<text x="600" y="271" text-anchor="middle" font-size="17" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#254462">med avgränsade förbättringar?</text>
+<polyline points="326,257 199,257 199,347" fill="none" stroke="#6a829e" stroke-width="2.5"  marker-end="url(#arr)"/>
+<polyline points="600,294 600,347" fill="none" stroke="#6a829e" stroke-width="2.5"  marker-end="url(#arr)"/>
+<polyline points="874,257 1012,257 1012,347" fill="none" stroke="#6a829e" stroke-width="2.5"  marker-end="url(#arr)"/>
+<text x="250" y="318" text-anchor="middle" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#416c58">JA</text>
+<text x="628" y="321" text-anchor="middle" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#98702b">DELVIS</text>
+<text x="954" y="318" text-anchor="middle" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#9d5252">NEJ</text>
+<rect x="52" y="348" width="295" height="175" rx="20" fill="#eaf6ef" stroke="#75a789" stroke-width="2"/>
+<text x="199" y="386" text-anchor="middle" font-size="22" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#205d40">BEVARA</text>
+<text x="199" y="414" text-anchor="middle" font-size="19" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#205d40">och förbättra</text>
+<text x="199" y="450" text-anchor="middle" font-size="16" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#254462">Stärk tester, säkerhet,</text>
+<text x="199" y="474" text-anchor="middle" font-size="16" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#254462">övervakning och releaser</text>
+<text x="199" y="499" text-anchor="middle" font-size="16" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#254462">utan onödig uppdelning</text>
+<rect x="452" y="348" width="296" height="175" rx="20" fill="#fff5e5" stroke="#d9ab65" stroke-width="2"/>
+<text x="600" y="386" text-anchor="middle" font-size="22" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#8a5b22">FÖRENKLA</text>
+<text x="600" y="414" text-anchor="middle" font-size="19" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#8a5b22">och standardisera</text>
+<text x="600" y="450" text-anchor="middle" font-size="16" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#254462">Minska varianter, klargör</text>
+<text x="600" y="474" text-anchor="middle" font-size="16" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#254462">beroenden och automatisera</text>
+<text x="600" y="499" text-anchor="middle" font-size="16" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#254462">de vanligaste behoven</text>
+<rect x="852" y="348" width="296" height="175" rx="20" fill="#edf1fc" stroke="#8299cd" stroke-width="2"/>
+<text x="1000" y="386" text-anchor="middle" font-size="22" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#385787">FÖRFLYTTA</text>
+<text x="1000" y="414" text-anchor="middle" font-size="19" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#385787">målmedvetet</text>
+<text x="1000" y="450" text-anchor="middle" font-size="16" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#254462">Bygg nya förmågor och</text>
+<text x="1000" y="474" text-anchor="middle" font-size="16" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#254462">förändra ansvar där</text>
+<text x="1000" y="499" text-anchor="middle" font-size="16" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#254462">behovet motiverar det</text>
+<polyline points="1000,523 1000,548 600,548 600,562" fill="none" stroke="#6a829e" stroke-width="2.5"  marker-end="url(#arr)"/>
+<polyline points="199,523 199,548 488,548 488,562" fill="none" stroke="#6a829e" stroke-width="2.5"  marker-end="url(#arr)"/>
+<polyline points="600,523 600,562" fill="none" stroke="#6a829e" stroke-width="2.5"  marker-end="url(#arr)"/>
+<rect x="99" y="565" width="1002" height="130" rx="18" fill="#ffffff" stroke="#98abc3" stroke-width="2"/>
+<text x="600" y="598" text-anchor="middle" font-size="20" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#254462">3. Kontrollera förutsättningarna före större förändring</text>
+<rect x="130" y="617" width="176" height="51" rx="12" fill="#eff4f9" stroke="#b4c5d7" stroke-width="1.5"/>
+<text x="218" y="648" text-anchor="middle" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#254462">Efterfrågan</text>
+<rect x="327" y="617" width="176" height="51" rx="12" fill="#eff4f9" stroke="#b4c5d7" stroke-width="1.5"/>
+<text x="415" y="648" text-anchor="middle" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#254462">Helhetsägarskap</text>
+<rect x="524" y="617" width="176" height="51" rx="12" fill="#eff4f9" stroke="#b4c5d7" stroke-width="1.5"/>
+<text x="612" y="648" text-anchor="middle" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#254462">Säker drift</text>
+<rect x="721" y="617" width="176" height="51" rx="12" fill="#eff4f9" stroke="#b4c5d7" stroke-width="1.5"/>
+<text x="809" y="648" text-anchor="middle" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#254462">Kompetens och ekonomi</text>
+<rect x="918" y="617" width="176" height="51" rx="12" fill="#eff4f9" stroke="#b4c5d7" stroke-width="1.5"/>
+<text x="1006" y="648" text-anchor="middle" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#254462">Hanterbar pilot</text>
+<polyline points="600,695 600,726" fill="none" stroke="#6a829e" stroke-width="2.5"  marker-end="url(#arr)"/>
+<rect x="213" y="729" width="774" height="56" rx="15" fill="#e7f3ed" stroke="#76a58b" stroke-width="2"/>
+<text x="600" y="751" text-anchor="middle" font-size="18" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#2c6546">4. Pröva begränsat – mät nytta, robusthet och risk</text>
+<text x="600" y="771" text-anchor="middle" font-size="14" font-weight="400" font-family="Arial, Helvetica, sans-serif" fill="#2c6546">Skala upp när resultaten stöder det; förbered mer eller avbryt annars</text>
+</svg>

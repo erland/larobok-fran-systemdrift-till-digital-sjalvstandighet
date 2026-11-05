@@ -1,0 +1,26 @@
+{
+  "blockers": [],
+  "chapter": "03-den-distribuerade-it-miljon.md",
+  "chapter_sha256": "46a70bc6551c2bb2b20a58ab633512ee227325d22573300cdc1b8cec216fd460",
+  "checks": {
+    "audience": "passed",
+    "consistency": "passed",
+    "editorial": "passed",
+    "facts": "passed",
+    "illustrations": "passed",
+    "language": "passed",
+    "sources": "passed",
+    "structure": "passed"
+  },
+  "editorial_decision": "Godkänt efter riktad intern omgranskning av illustrationsrensningen. Ej oberoende vetenskaplig faktagranskning.",
+  "notes": [
+    "Inga nya empiriska påståenden införda. Tidigare faktaunderlag och K-hänvisningar kvarstår där de är relevanta.",
+    "Kvarvarande illustrationer är endast IMG-10-01 och IMG-11-01. Inga saknade figurreferenser i det ändrade kapitlet."
+  ],
+  "project_revision_at_review": 27,
+  "review_mode": "auto",
+  "review_scope": "Avgränsad redaktionell omgranskning revision 0028: figur- och bildtextsborttagning, självständig läsbarhet, språk, struktur, faktaintegritet samt kvarvarande referenser. Ingen ny primärkällerevision.",
+  "status": "approved_auto",
+  "summary": "Figur och tillhörande hänvisning borttagen; kvarvarande sakliga resonemang bevarade i fristående löptext. Kapiteltext och referenser genomlästa för denna avgränsade ändring.",
+  "updated_at": "2026-11-05T05:24:58+00:00"
+}

@@ -1,0 +1,16 @@
+# Build notes
+
+Markdown under `chapters/` är kanonisk boktext. `book.yaml` styr metadata, kapitelordning och exportval.
+
+## Reproducerbar build
+- Pandoc är låst till 3.1.11.1 i GitHub Actions.
+- PDF byggs med XeLaTeX och TeX Gyre Pagella.
+- EPUB efterbearbetas av `fix-epub-after-pandoc.py`.
+- Preview och Release använder `scripts/build_book.py`; workflow-YAML innehåller ingen boklogik.
+- Arbetsfiler under `docs/` exporteras inte.
+
+## Provsättning revision 0027
+- Omslaget läggs på första PDF-sidan utan en föregående blank sida.
+- PDF:s innehållsförteckning visar kapitel och huvudavsnitt; EPUB:s navigation visar kapitel.
+- PDF-metadata inkluderar titel/författare/ämne och EPUB använder stabil projektidentifierare.
+- Läsbarhet i diagrammen vid tryckstorlek behöver särskild granskning före tryckrelease.

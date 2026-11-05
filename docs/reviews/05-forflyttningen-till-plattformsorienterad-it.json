@@ -1,0 +1,26 @@
+{
+  "blockers": [],
+  "chapter": "05-forflyttningen-till-plattformsorienterad-it.md",
+  "chapter_sha256": "c2a3f6953e216ba01152573c774557f3e1ebf307ac6949d34d62204bef276958",
+  "checks": {
+    "audience": "passed",
+    "consistency": "passed",
+    "editorial": "passed",
+    "facts": "passed",
+    "illustrations": "passed",
+    "language": "passed",
+    "sources": "passed",
+    "structure": "passed"
+  },
+  "editorial_decision": "Godkänt efter riktad intern omgranskning av illustrationsrensningen. Ej oberoende vetenskaplig faktagranskning.",
+  "notes": [
+    "Inga nya empiriska påståenden införda. Tidigare faktaunderlag och K-hänvisningar kvarstår där de är relevanta.",
+    "Kvarvarande illustrationer är endast IMG-10-01 och IMG-11-01. Inga saknade figurreferenser i det ändrade kapitlet."
+  ],
+  "project_revision_at_review": 27,
+  "review_mode": "auto",
+  "review_scope": "Avgränsad redaktionell omgranskning revision 0028: figur- och bildtextsborttagning, självständig läsbarhet, språk, struktur, faktaintegritet samt kvarvarande referenser. Ingen ny primärkällerevision.",
+  "status": "approved_auto",
+  "summary": "Figur och tillhörande hänvisning borttagen; kvarvarande sakliga resonemang bevarade i fristående löptext. Kapiteltext och referenser genomlästa för denna avgränsade ändring.",
+  "updated_at": "2026-11-05T05:25:01+00:00"
+}
