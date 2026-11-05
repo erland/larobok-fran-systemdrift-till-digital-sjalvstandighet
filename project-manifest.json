@@ -1,5 +1,5 @@
 {
-  "canonical_zip_name": "fran-systemdrift-till-digital-sjalvstandighet-r0030-projekt.zip",
+  "canonical_zip_name": "fran-systemdrift-till-digital-sjalvstandighet-r0031-projekt.zip",
   "chapters": {
     "count": 12,
     "hashes": {
@@ -20,17 +20,18 @@
   },
   "created_at": "2026-11-04T18:38:23Z",
   "last_operation": {
+    "operation": "Åtgärda TeX Gyre Pagella OTF-sökvägar i release och förhandsbygge",
+    "source_revision": 30,
     "changed_files": [
       ".github/workflows/02-build-preview.yml",
-      ".github/workflows/03-release.yml"
-    ],
-    "operation": "Komplettera release- och previewmiljö med CairoSVG för SVG-till-PDF-konvertering",
-    "source_revision": 29
+      ".github/workflows/03-release.yml",
+      "scripts/export-book.py"
+    ]
   },
-  "parent_revision": 29,
+  "parent_revision": 30,
   "project_id": "ea6e6be2-871e-4d7c-a3cb-9d1ac9294402",
   "project_slug": "fran-systemdrift-till-digital-sjalvstandighet",
-  "revision": 30,
+  "revision": 31,
   "schema_version": 1,
   "template": false,
   "tracked_files": {
@@ -39,12 +40,12 @@
       "sha256": "56c504376f59ec4a5a7ab59ab29be43784f636f832af5c6e98f14b694c15afb7"
     },
     ".github/workflows/02-build-preview.yml": {
-      "bytes": 1341,
-      "sha256": "ffe21e5b4ff7a6b2be429dfbb676ee0831cfba12f3484db9f01da1aa8c949818"
+      "bytes": 1617,
+      "sha256": "d305db6e51fc3cdb6068508094bcfd3b76be477d06eeb0ce3e229afdf449fbae"
     },
     ".github/workflows/03-release.yml": {
-      "bytes": 2005,
-      "sha256": "09a9fef5956dad4b927ad6fce765d1ce8ff607cf2e2d9224550546aff2749c69"
+      "bytes": 2281,
+      "sha256": "4f967b397d34a3a7b6f0094ca6c0191a9c2cee767db3fc1b25ca9ef53c6835b4"
     },
     "README.md": {
       "bytes": 2626,
@@ -303,8 +304,8 @@
       "sha256": "1204d93c4717d6bfc67fed7f105564319dada7efad617141d1da50b32e548450"
     },
     "revision-log.md": {
-      "bytes": 15345,
-      "sha256": "ce4825e7dd3f1a60433e6f11b96754fc658c62dcdbfb995f5b2434c42707dc9d"
+      "bytes": 15621,
+      "sha256": "7145d22d1ce5d234c4338a56dab52bd582e25815bcfbf7b46469122f4cb2476b"
     },
     "scripts/book_references.py": {
       "bytes": 4622,
@@ -319,8 +320,8 @@
       "sha256": "418e285884f0a8ea4a5c31aa2619a2b402a740e680fe4c8a96bab6347602e5d3"
     },
     "scripts/export-book.py": {
-      "bytes": 9202,
-      "sha256": "b3fce47d4a715f664bae465fe769761009e44596751abba941492c474a8c5497"
+      "bytes": 9382,
+      "sha256": "4844ede2c6115b8f9192495ccd19f266c4f06573c273ed596c59a8a81c613ca3"
     },
     "scripts/export-book.sh": {
       "bytes": 89,
@@ -343,5 +344,5 @@
       "sha256": "7bfc4efda9947a855c979019864423f80d47e531d92855d02f64643a0887208a"
     }
   },
-  "updated_at": "2026-11-05T06:18:46Z"
+  "updated_at": "2026-11-05T06:31:32Z"
 }
