@@ -33,7 +33,7 @@ jobs:
         run: python3 -c 'import cairosvg; print("CairoSVG", cairosvg.__version__)'
       - name: Verify PDF font files
         run: |
-          python3 -c 'import sys; sys.path.insert(0, "scripts"); from export_book import find_font_dir; fontdir = find_font_dir(); assert fontdir, "TeX Gyre Pagella OpenType fonts missing"; print("PDF font files:", fontdir)'
+          python3 -c 'import runpy; fontdir = runpy.run_path("scripts/export-book.py")["find_font_dir"](); assert fontdir, "TeX Gyre Pagella OpenType fonts missing"; print("PDF font files:", fontdir)'
       - name: Build EPUB and PDF
         env:
           BOOK_RELEASE_TAG: ${{ github.ref_name }}

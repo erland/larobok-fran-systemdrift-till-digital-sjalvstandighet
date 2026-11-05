@@ -1,5 +1,5 @@
 {
-  "canonical_zip_name": "fran-systemdrift-till-digital-sjalvstandighet-r0031-projekt.zip",
+  "canonical_zip_name": "fran-systemdrift-till-digital-sjalvstandighet-r0032-projekt.zip",
   "chapters": {
     "count": 12,
     "hashes": {
@@ -20,18 +20,17 @@
   },
   "created_at": "2026-11-04T18:38:23Z",
   "last_operation": {
-    "operation": "Åtgärda TeX Gyre Pagella OTF-sökvägar i release och förhandsbygge",
-    "source_revision": 30,
     "changed_files": [
       ".github/workflows/02-build-preview.yml",
-      ".github/workflows/03-release.yml",
-      "scripts/export-book.py"
-    ]
+      ".github/workflows/03-release.yml"
+    ],
+    "operation": "Rätta Python-förkontroll av PDF-typsnitt i GitHub Actions",
+    "source_revision": 31
   },
-  "parent_revision": 30,
+  "parent_revision": 31,
   "project_id": "ea6e6be2-871e-4d7c-a3cb-9d1ac9294402",
   "project_slug": "fran-systemdrift-till-digital-sjalvstandighet",
-  "revision": 31,
+  "revision": 32,
   "schema_version": 1,
   "template": false,
   "tracked_files": {
@@ -40,12 +39,12 @@
       "sha256": "56c504376f59ec4a5a7ab59ab29be43784f636f832af5c6e98f14b694c15afb7"
     },
     ".github/workflows/02-build-preview.yml": {
-      "bytes": 1617,
-      "sha256": "d305db6e51fc3cdb6068508094bcfd3b76be477d06eeb0ce3e229afdf449fbae"
+      "bytes": 1593,
+      "sha256": "75dedb9500736ee6e4c0251fd681a98da75649f59b567e60ab071bb180fb722c"
     },
     ".github/workflows/03-release.yml": {
-      "bytes": 2281,
-      "sha256": "4f967b397d34a3a7b6f0094ca6c0191a9c2cee767db3fc1b25ca9ef53c6835b4"
+      "bytes": 2257,
+      "sha256": "d6a6d0b29e1a1692dc4ef881c39125aac03d8061bb6eb8707dbbead22b8ad65f"
     },
     "README.md": {
       "bytes": 2626,
@@ -304,8 +303,8 @@
       "sha256": "1204d93c4717d6bfc67fed7f105564319dada7efad617141d1da50b32e548450"
     },
     "revision-log.md": {
-      "bytes": 15621,
-      "sha256": "7145d22d1ce5d234c4338a56dab52bd582e25815bcfbf7b46469122f4cb2476b"
+      "bytes": 15860,
+      "sha256": "10d78ccb1043c6c59a67a71d21192884881d9a4d331dcfd0bfc0d819227fa0b1"
     },
     "scripts/book_references.py": {
       "bytes": 4622,
@@ -344,5 +343,5 @@
       "sha256": "7bfc4efda9947a855c979019864423f80d47e531d92855d02f64643a0887208a"
     }
   },
-  "updated_at": "2026-11-05T06:31:32Z"
+  "updated_at": "2026-11-05T06:56:43Z"
 }
