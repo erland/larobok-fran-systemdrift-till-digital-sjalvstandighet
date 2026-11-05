@@ -302,8 +302,8 @@
       "sha256": "1204d93c4717d6bfc67fed7f105564319dada7efad617141d1da50b32e548450"
     },
     "revision-log.md": {
-      "bytes": 14854,
-      "sha256": "4996b4fe9fd864136c0bb4f9b1dcd56d5022796361fc3737a7a30bd513c6bdb2"
+      "bytes": 15083,
+      "sha256": "f7a7ac117258cfb7f566e7d4d3569ac8f821734460dd30c08f8804353db5ab9e"
     },
     "scripts/book_references.py": {
       "bytes": 4622,
