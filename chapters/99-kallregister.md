@@ -1,0 +1,24 @@
+# Källregister
+
+- **[K001]** National Institute of Standards and Technology. *Zero Trust Architecture (SP 800-207)*, 2020. https://csrc.nist.gov/pubs/sp/800/207/final
+- **[K002]** Humble, Jez; Farley, David. *Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*. Addison-Wesley, 2010.
+- **[K003]** Forsgren, Nicole; Humble, Jez; Kim, Gene. *Accelerate: The Science of Lean Software and DevOps*. IT Revolution Press, 2018.
+- **[K004]** Cloud Native Computing Foundation. *CNCF Ecosystem Gaps Report 2024*. https://www.cncf.io/reports/cncf-ecosystem-gaps/
+- **[K005]** Google Cloud / DORA. *State of AI-assisted Software Development 2025*. https://dora.dev/research/2025/dora-report/
+- **[K006]** National Institute of Standards and Technology. *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*, 2023. https://www.nist.gov/itl/ai-risk-management-framework
+- **[K007]** DORA. *Capabilities: Loosely coupled teams*. https://dora.dev/capabilities/loosely-coupled-teams/
+- **[K008]** Microsoft Learn, Azure Architecture Center. *Microservices architecture style*. https://learn.microsoft.com/en-us/azure/architecture/microservices/
+- **[K009]** DORA. *Capabilities: Continuous delivery*. https://dora.dev/capabilities/continuous-delivery/
+- **[K010]** Martin Fowler. *Microservice Prerequisites*, 28 augusti 2014. https://martinfowler.com/bliki/MicroservicePrerequisites.html
+- **[K011]** Microsoft Learn, Azure Architecture Center. *Microservices assessment and readiness*. https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/microservices-assessment
+- **[K012]** National Institute of Standards and Technology. *Building Secure Microservices-based Applications Using Service-Mesh Architecture (SP 800-204A)*, 2020. https://csrc.nist.gov/pubs/sp/800/204/a/final
+- **[K013]** Microsoft Learn, Azure Architecture Center. *Data considerations for microservices*. https://learn.microsoft.com/en-us/azure/architecture/microservices/design/data-considerations
+- **[K014]** Cloud Native Computing Foundation, TAG App Delivery. *Platform Engineering Maturity Model*. https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/
+- **[K015]** National Institute of Standards and Technology. *Implementation of DevSecOps for a Microservices-based Application with Service Mesh (SP 800-204C)*, 2022. https://csrc.nist.gov/pubs/sp/800/204/c/final
+- **[K016]** Google Cloud / DORA. *2024 Accelerate State of DevOps Report*, 2024. https://dora.dev/research/2024/dora-report/
+- **[K017]** DORA. *Capabilities: Platform engineering*. https://dora.dev/capabilities/platform-engineering/
+- **[K018]** Google. *Site Reliability Engineering: Service Level Objectives*. https://sre.google/sre-book/service-level-objectives/
+- **[K019]** National Institute of Standards and Technology. *Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1)*, 2024. https://doi.org/10.6028/NIST.AI.600-1
+- **[K020]** OWASP GenAI Security Project. *OWASP Top 10 for LLM Applications*, utgåva 2025. https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/
+- **[K021]** National Institute of Standards and Technology. *AI Agent Standards Initiative*, 17 februari 2026. https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure
+- **[K022]** OWASP GenAI Security Project. *OWASP Top 10 for Large Language Model Applications*, utgåva 2026, presenterad i september 2026. https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/

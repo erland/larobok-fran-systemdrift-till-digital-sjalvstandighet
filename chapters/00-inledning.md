@@ -1,0 +1,17 @@
+# Inledning
+
+En organisation kan vara mycket skicklig på att drifta och säkra sina IT-system och ändå få allt svårare att möta behoven av snabb förändring. Det behöver inte bero på att kompetensen har minskat. Ofta har själva förutsättningarna förändrats: från ett mindre antal sammanhållna system till många samverkande tjänster, och vidare mot plattformar som låter fler utveckla digitala lösningar på egen hand.
+
+När teknikens uppbyggnad förändras utan att arbetssätt, mandat och ansvar utvecklas i samma takt kan en tidigare framgångsrik organisation få återkommande problem. En miljö som var lätt att skydda och förvalta som ett system kan bli svåröverblickbar när samma verksamhetsfunktion bygger på många komponenter. Snabbare utveckling av enskilda delar kan då förenas med långsammare förändring av helheten. AI-driven verksamhetsutveckling kan förstärka den spänningen ytterligare.
+
+Den här boken undersöker sambandet mellan teknisk arkitektur och organisatoriskt ansvar. Den beskriver fyra generationer som hjälper oss att förstå hur IT-stöd byggs, förvaltas, utvecklas och skyddas. Den förklarar vilka förmågor som krävs när organisationer vill ändra arbetssätt – och varför en förändring ibland bör vänta.
+
+**Generationerna är analysmodeller, inte en rangordning.** Flera kan förekomma samtidigt, och en äldre arkitektur kan vara det bästa valet för ett visst behov. Målet är inte att driva alla verksamheter mot samma lösning, utan att göra deras val mer medvetna. Boken skiljer också mellan väl etablerade arbetssätt, erfarenhetsbaserade rekommendationer och möjliga framtidsscenarier. Det gäller särskilt den fjärde generationen, där AI-utvecklingen fortfarande förändrar förutsättningarna snabbt.
+
+Boken kan läsas på tre sätt. Den som **fattar beslut** kan följa drivkrafter, styrkor, risker och villkor för förändring. Den som **utvecklar organisation och ansvar** kan särskilt fördjupa sig i gränssnitten mellan utveckling, drift, plattform, säkerhet och förvaltning. Den som **arbetar med teknik och arkitektur** kan följa hur systemgränser, säkerhet, integrationer och gemensamma förmågor förändras. Perspektiven hänger ihop: ett teknikval får organisatoriska konsekvenser och en ny ansvarsfördelning behöver tekniska förutsättningar för att fungera. Texten förutsätter grundläggande kännedom om IT i organisationer, men inte specialistkunskap om enskilda produkter.
+
+Bokens första del beskriver sammanhållna IT-stöd och drivkrafterna bakom distribuerade lösningar. Den andra visar varför många tjänster kan skapa friktion mellan organisationens delar och hur förflyttningen mot plattformar kan motiveras. Den tredje behandlar plattformsmodellen och vad som krävs för att öppna för verksamhetsdriven utveckling. Den fjärde utforskar AI-driven utveckling, IT-avdelningens framtida uppgift och ett praktiskt sätt att välja rätt förändring.
+
+Ett fiktivt ärendehanteringsstöd återkommer genom boken. Det används för att synliggöra tekniska beroenden och ansvar i olika situationer, inte som ett bevis för att alla organisationer bör utvecklas på samma sätt. Diagrammen är pedagogiska modeller. De visar typiska principer och samband, inte tekniskt fullständiga referensarkitekturer eller obligatoriska organisationskartor.
+
+Frågan som följer genom boken är därför inte *vilken generation bör vi nå?*, utan **vilka problem behöver vi lösa, vad fungerar redan bra och vilka förutsättningar måste finnas innan vi förändrar?**

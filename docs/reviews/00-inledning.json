@@ -1,0 +1,27 @@
+{
+  "blockers": [],
+  "chapter": "00-inledning.md",
+  "chapter_sha256": "d8684b1d9541a5e94770bd3dc6f537ad8e5981d9b85264a8f7dd127bc3068bf4",
+  "checks": {
+    "audience": "passed",
+    "consistency": "passed",
+    "editorial": "passed",
+    "facts": "passed",
+    "illustrations": "not_applicable",
+    "language": "passed",
+    "sources": "not_applicable",
+    "structure": "passed"
+  },
+  "notes": [
+    "Tre läsargrupper har fått var sin tydlig läsväg utan att bokens disposition dubbleras.",
+    "Det fiktiva ärendehanteringsstödet och figurernas status som schematiska modeller förklaras.",
+    "Framtidsscenarier skiljs uttryckligen från etablerade arbetssätt.",
+    "Inga illustrationer förekommer i inledningen."
+  ],
+  "project_revision_at_review": 23,
+  "review_mode": "auto",
+  "source_justification": "Inledningen orienterar läsaren, presenterar den författarskapade generationsmodellen och innehåller inga egna specifika statistiska eller externa faktapåståenden som kräver nya hänvisningar.",
+  "status": "approved_auto",
+  "summary": "Inledningen är genomläst och omarbetad för att ge en självständig ingång till samtliga elva kapitel. Analysmodellen, tre läsarvägar, genomgående exempel och skillnaden mellan etablerad praktik och framtidsscenario framgår tydligt.",
+  "updated_at": "2026-11-04T20:32:49+00:00"
+}

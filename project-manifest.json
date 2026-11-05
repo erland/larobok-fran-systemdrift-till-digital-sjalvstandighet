@@ -1,0 +1,389 @@
+{
+  "canonical_zip_name": "fran-systemdrift-till-digital-sjalvstandighet-r0028-projekt.zip",
+  "chapters": {
+    "count": 12,
+    "hashes": {
+      "chapters/01-den-traditionella-it-modellen.md": "75ec6996288a2b06991d67b73b82cb324b3c097051682515c72d36ab31343cd2",
+      "chapters/02-forflyttningen-till-distribuerade-it-stod.md": "b5e40af7d00f446eeae9927e5256c1f786efcf80a6711275efe36a201008636c",
+      "chapters/03-den-distribuerade-it-miljon.md": "46a70bc6551c2bb2b20a58ab633512ee227325d22573300cdc1b8cec216fd460",
+      "chapters/04-nar-ansvar-och-arkitektur-inte-langre-passar-ihop.md": "6045abdea7d7f2b2a74871cdc7948bdcfd848ee9a3b5d035a00e624c81a69687",
+      "chapters/05-forflyttningen-till-plattformsorienterad-it.md": "c2a3f6953e216ba01152573c774557f3e1ebf307ac6949d34d62204bef276958",
+      "chapters/06-den-plattformsorienterade-it-modellen.md": "57da4efdd3ce6a6446f3057329bf5bf0025b7f05883816f5442d0814cf59da5a",
+      "chapters/07-en-ny-ansvarsfordelning.md": "8dcc074d3174c509518ef6f426f06f05aeaa4c8cfe6e46007246fd4dbe175fb7",
+      "chapters/08-forflyttningen-till-verksamhetsdriven-utveckling.md": "bab9e4f36cb30f827c056fe4a64033802c6827d88b1e7dba8510b884e3acee28",
+      "chapters/09-den-ai-drivna-och-verksamhetsnara-it-modellen.md": "3fa16595a8fa2f939dad19e33ced024fa389ca2ddafeeb7f321016f71b59d2c5",
+      "chapters/10-it-avdelningens-framtida-uppgift.md": "5918762a81673af04cf12b53de617db2f2cf2f1cbe9d74452f39cf63a07c7c48",
+      "chapters/11-att-valja-ratt-nasta-steg.md": "981bc59ae38add546dacce119824c991cdd5c5cda2fa2d78c404efc2129bb39d",
+      "chapters/99-kallregister.md": "85211e59a560d796c73889701389345dd51641f4188cbc9ac9da138abf4c63ff"
+    },
+    "latest": 99
+  },
+  "created_at": "2026-11-04T18:38:23Z",
+  "last_operation": {
+    "changed_files": [
+      "assets/diagrams/IMG-01-01.svg",
+      "assets/diagrams/IMG-02-01.svg",
+      "assets/diagrams/IMG-03-01.svg",
+      "assets/diagrams/IMG-04-01.svg",
+      "assets/diagrams/IMG-05-01.svg",
+      "assets/diagrams/IMG-06-01.svg",
+      "assets/diagrams/IMG-07-01.svg",
+      "assets/diagrams/IMG-08-01.svg",
+      "assets/diagrams/IMG-09-01.svg",
+      "assets/diagrams/IMG-09-02.svg",
+      "assets/generated/IMG-01-01.svg",
+      "assets/generated/IMG-02-01.svg",
+      "assets/generated/IMG-03-01.svg",
+      "assets/generated/IMG-04-01.svg",
+      "assets/generated/IMG-05-01.svg",
+      "assets/generated/IMG-06-01.svg",
+      "assets/generated/IMG-07-01.svg",
+      "assets/generated/IMG-08-01.svg",
+      "assets/generated/IMG-09-01.svg",
+      "assets/generated/IMG-09-02.svg",
+      "chapters/01-den-traditionella-it-modellen.md",
+      "chapters/02-forflyttningen-till-distribuerade-it-stod.md",
+      "chapters/03-den-distribuerade-it-miljon.md",
+      "chapters/04-nar-ansvar-och-arkitektur-inte-langre-passar-ihop.md",
+      "chapters/05-forflyttningen-till-plattformsorienterad-it.md",
+      "chapters/06-den-plattformsorienterade-it-modellen.md",
+      "chapters/07-en-ny-ansvarsfordelning.md",
+      "chapters/08-forflyttningen-till-verksamhetsdriven-utveckling.md",
+      "chapters/09-den-ai-drivna-och-verksamhetsnara-it-modellen.md",
+      "docs/godkand-bokplan.md",
+      "docs/illustration-plan.md",
+      "docs/illustrationsrensning-r0028.md",
+      "docs/kapitelplan.md",
+      "docs/projektstatus.md",
+      "docs/reviews/01-den-traditionella-it-modellen.json",
+      "docs/reviews/02-forflyttningen-till-distribuerade-it-stod.json",
+      "docs/reviews/03-den-distribuerade-it-miljon.json",
+      "docs/reviews/04-nar-ansvar-och-arkitektur-inte-langre-passar-ihop.json",
+      "docs/reviews/05-forflyttningen-till-plattformsorienterad-it.json",
+      "docs/reviews/06-den-plattformsorienterade-it-modellen.json",
+      "docs/reviews/07-en-ny-ansvarsfordelning.json",
+      "docs/reviews/08-forflyttningen-till-verksamhetsdriven-utveckling.json",
+      "docs/reviews/09-den-ai-drivna-och-verksamhetsnara-it-modellen.json",
+      "project-index.md"
+    ],
+    "operation": "Författarstyrd illustrationsrensning, omgranskning av kapitel 1–9",
+    "source_revision": 27
+  },
+  "parent_revision": 27,
+  "project_id": "ea6e6be2-871e-4d7c-a3cb-9d1ac9294402",
+  "project_slug": "fran-systemdrift-till-digital-sjalvstandighet",
+  "revision": 28,
+  "schema_version": 1,
+  "template": false,
+  "tracked_files": {
+    ".github/workflows/01-validate.yml": {
+      "bytes": 292,
+      "sha256": "56c504376f59ec4a5a7ab59ab29be43784f636f832af5c6e98f14b694c15afb7"
+    },
+    ".github/workflows/02-build-preview.yml": {
+      "bytes": 1196,
+      "sha256": "e88aaffff011c8cde3a28299a22064a8ead0606ee966fde0c45ce613673e0047"
+    },
+    ".github/workflows/03-release.yml": {
+      "bytes": 1699,
+      "sha256": "16f1070e5823afacd170e026de6b297354526066a42639c70cd26362408903d3"
+    },
+    "README.md": {
+      "bytes": 2626,
+      "sha256": "6102f354a6a28647641e8f00dd58230a714646389bedcf2c40c766420a3072f6"
+    },
+    "assets/cover/README.md": {
+      "bytes": 290,
+      "sha256": "685049a2268a99e3e42bb31fd33bfdb9a34896718d253512a9ef2aff7172687c"
+    },
+    "assets/cover/omslag-godkant.png": {
+      "bytes": 1687253,
+      "sha256": "e1579bdce27ddce8a8c454e19071c0eb85f3d0c1eb5c5484bd67dd763c096a62"
+    },
+    "assets/diagrams/IMG-10-01.svg": {
+      "bytes": 10788,
+      "sha256": "47fa389eb962c61e971feaa0704a3215f934bb64c5195287383e837461439186"
+    },
+    "assets/diagrams/IMG-11-01.svg": {
+      "bytes": 8169,
+      "sha256": "a4a99fe004e6bc5d5b632d29ee3a7e793c842e76a144c1e94ad5e1bd5085cf94"
+    },
+    "assets/generated/IMG-10-01.svg": {
+      "bytes": 10788,
+      "sha256": "47fa389eb962c61e971feaa0704a3215f934bb64c5195287383e837461439186"
+    },
+    "assets/generated/IMG-11-01.svg": {
+      "bytes": 8169,
+      "sha256": "a4a99fe004e6bc5d5b632d29ee3a7e793c842e76a144c1e94ad5e1bd5085cf94"
+    },
+    "assets/image-prompts/README.md": {
+      "bytes": 71,
+      "sha256": "b50a8f92cd321ad174fb2991e1d2e9f931ae67bcd5a84b94957dea4fcef2cf9a"
+    },
+    "assets/images/README.md": {
+      "bytes": 91,
+      "sha256": "3ca661eed049895bf1314529400eb0e2719817b82569f15b58aeb794a7966fa3"
+    },
+    "book.yaml": {
+      "bytes": 1730,
+      "sha256": "f57e5a8a34af219d2306a972d14f8391696878afa5ca22f27ac9bf74dedd76fd"
+    },
+    "chapters/00-inledning.md": {
+      "bytes": 3602,
+      "sha256": "d8684b1d9541a5e94770bd3dc6f537ad8e5981d9b85264a8f7dd127bc3068bf4"
+    },
+    "chapters/01-den-traditionella-it-modellen.md": {
+      "bytes": 16118,
+      "sha256": "75ec6996288a2b06991d67b73b82cb324b3c097051682515c72d36ab31343cd2"
+    },
+    "chapters/02-forflyttningen-till-distribuerade-it-stod.md": {
+      "bytes": 18078,
+      "sha256": "b5e40af7d00f446eeae9927e5256c1f786efcf80a6711275efe36a201008636c"
+    },
+    "chapters/03-den-distribuerade-it-miljon.md": {
+      "bytes": 18860,
+      "sha256": "46a70bc6551c2bb2b20a58ab633512ee227325d22573300cdc1b8cec216fd460"
+    },
+    "chapters/04-nar-ansvar-och-arkitektur-inte-langre-passar-ihop.md": {
+      "bytes": 17024,
+      "sha256": "6045abdea7d7f2b2a74871cdc7948bdcfd848ee9a3b5d035a00e624c81a69687"
+    },
+    "chapters/05-forflyttningen-till-plattformsorienterad-it.md": {
+      "bytes": 17777,
+      "sha256": "c2a3f6953e216ba01152573c774557f3e1ebf307ac6949d34d62204bef276958"
+    },
+    "chapters/06-den-plattformsorienterade-it-modellen.md": {
+      "bytes": 14914,
+      "sha256": "57da4efdd3ce6a6446f3057329bf5bf0025b7f05883816f5442d0814cf59da5a"
+    },
+    "chapters/07-en-ny-ansvarsfordelning.md": {
+      "bytes": 14879,
+      "sha256": "8dcc074d3174c509518ef6f426f06f05aeaa4c8cfe6e46007246fd4dbe175fb7"
+    },
+    "chapters/08-forflyttningen-till-verksamhetsdriven-utveckling.md": {
+      "bytes": 17229,
+      "sha256": "bab9e4f36cb30f827c056fe4a64033802c6827d88b1e7dba8510b884e3acee28"
+    },
+    "chapters/09-den-ai-drivna-och-verksamhetsnara-it-modellen.md": {
+      "bytes": 15395,
+      "sha256": "3fa16595a8fa2f939dad19e33ced024fa389ca2ddafeeb7f321016f71b59d2c5"
+    },
+    "chapters/10-it-avdelningens-framtida-uppgift.md": {
+      "bytes": 18423,
+      "sha256": "5918762a81673af04cf12b53de617db2f2cf2f1cbe9d74452f39cf63a07c7c48"
+    },
+    "chapters/11-att-valja-ratt-nasta-steg.md": {
+      "bytes": 20045,
+      "sha256": "981bc59ae38add546dacce119824c991cdd5c5cda2fa2d78c404efc2129bb39d"
+    },
+    "chapters/99-kallregister.md": {
+      "bytes": 3607,
+      "sha256": "85211e59a560d796c73889701389345dd51641f4188cbc9ac9da138abf4c63ff"
+    },
+    "chapters/kapitelmall-faktabok.md": {
+      "bytes": 337,
+      "sha256": "66f5e412396793af328b5fb1b5bbd4dec3412a62b3db4f4fdb00b97639d5f53c"
+    },
+    "chapters/kapitelmall-larobok.md": {
+      "bytes": 291,
+      "sha256": "84280ff1d5ca1f3743a8103d6e3342030e7055293ef947c7b2d07002287a7957"
+    },
+    "code/README.md": {
+      "bytes": 56,
+      "sha256": "6e24dcdfa47615f15207b592e216103956f6511dcdb64c4be75c2c191dc3b5e7"
+    },
+    "docs/bokspecifikation.md": {
+      "bytes": 1693,
+      "sha256": "95dd4a2a3b46a4f5ad6e5517f343aed5cdf474a12ca7e974cd77078e6474a145"
+    },
+    "docs/export-guide.md": {
+      "bytes": 2170,
+      "sha256": "2ffa8dded09f00bca0216a6ed3e708585785b65f88a3cc48d1ab091e2f750327"
+    },
+    "docs/faktakontroll.md": {
+      "bytes": 11173,
+      "sha256": "a56ff1be6acee7dba1240ed54540c4fc50bbee598b4c4a71db6bbfe5c1f2f080"
+    },
+    "docs/godkand-bokplan.md": {
+      "bytes": 15591,
+      "sha256": "720cff776a3ec2a87c3d2b237707692986153344b85b23cf56c6c76b52c0aa12"
+    },
+    "docs/illustration-plan.md": {
+      "bytes": 1002,
+      "sha256": "15dff55db1c81a024e75572d9467c74f640b43c46bbd2c98babe1be800334535"
+    },
+    "docs/illustrationsrensning-r0028.md": {
+      "bytes": 1639,
+      "sha256": "150e856ded39097ec30778bcbcb4247cbbffd5c76c4f7e91b23d94c5eb4df8de"
+    },
+    "docs/innehalls-canon.md": {
+      "bytes": 1608,
+      "sha256": "d95504ebf43b3e96ec5ca8a042cf3576cdbd569baea5ac19dca2cf3d72da0342"
+    },
+    "docs/innehallsrevision-r0025.md": {
+      "bytes": 2411,
+      "sha256": "ee56bd9d42b137ef1b55e9d22d241fc9a8192cad15f0ec8da510ca8b0a903e2a"
+    },
+    "docs/kallpolicy.md": {
+      "bytes": 962,
+      "sha256": "c81a382bba665d45c01d058c5a124f76ca811d254ff097e63027c2d399a18603"
+    },
+    "docs/kapitelplan.md": {
+      "bytes": 8680,
+      "sha256": "180d43b628bce3ff38e151b855f888be6f96e3e312ada22d6f6aae72067ef8ac"
+    },
+    "docs/projektstatus.md": {
+      "bytes": 2542,
+      "sha256": "bd2999a01df15b61b7c51db3c70373665045a57894de1b296bdf0688ff44c59a"
+    },
+    "docs/provsattning-r0027.md": {
+      "bytes": 2649,
+      "sha256": "d8f18e2cfe01331966a0eed5a6015abd9c7aa34e3c244eaebb7d02440c5eb2f8"
+    },
+    "docs/quality-checklist.md": {
+      "bytes": 1797,
+      "sha256": "f19c9f193f5658c317a41f34e2f0de598b42f646fdd9fbf7145fd4211e2ce7f1"
+    },
+    "docs/reviews/00-inledning.json": {
+      "bytes": 1355,
+      "sha256": "d00209d889d3a3322ff1b8ad70677f8d9cfa1499636cdd84c9d65085785c7ea9"
+    },
+    "docs/reviews/01-den-traditionella-it-modellen.json": {
+      "bytes": 1360,
+      "sha256": "cd8ad623c1887290754c4939661dc7ac835e1b44cdc9703e7a58c7ad378b6792"
+    },
+    "docs/reviews/02-forflyttningen-till-distribuerade-it-stod.json": {
+      "bytes": 1372,
+      "sha256": "d4fb061f4239f2f5ad4900ae00a894c1444a5352941a0f3e6c54544755431905"
+    },
+    "docs/reviews/03-den-distribuerade-it-miljon.json": {
+      "bytes": 1358,
+      "sha256": "5eee8508fbd5d2b6cb078140c08c8abd76c1fdf2d9549bebccbeff7da4715843"
+    },
+    "docs/reviews/04-nar-ansvar-och-arkitektur-inte-langre-passar-ihop.json": {
+      "bytes": 1380,
+      "sha256": "c952c57223982a295eebc6ca91ac5dfae465eca8325adbd45c9396618778cc89"
+    },
+    "docs/reviews/05-forflyttningen-till-plattformsorienterad-it.json": {
+      "bytes": 1374,
+      "sha256": "946798b74deaab6c0cfc2015407c5169613dd18f3032f2a4aaf7874479d134e1"
+    },
+    "docs/reviews/06-den-plattformsorienterade-it-modellen.json": {
+      "bytes": 1368,
+      "sha256": "7948922c15e949134da0df8e12ef0c27daa9dca6e942736dc606e2c4df04581d"
+    },
+    "docs/reviews/07-en-ny-ansvarsfordelning.json": {
+      "bytes": 1354,
+      "sha256": "e6fe2ab0528a8ad2f90683cafd4ea16f75ff20e05081ee0c9f04bc317a503c5a"
+    },
+    "docs/reviews/08-forflyttningen-till-verksamhetsdriven-utveckling.json": {
+      "bytes": 1379,
+      "sha256": "2769023a66381a82255e99698bc0258143e06824f9078dc39fd7f19d4356d0a7"
+    },
+    "docs/reviews/09-den-ai-drivna-och-verksamhetsnara-it-modellen.json": {
+      "bytes": 1376,
+      "sha256": "82b3ac79144c2abee715217c7d3c4c8517f0c70dcaa505644fca3c9953b3ba43"
+    },
+    "docs/reviews/10-it-avdelningens-framtida-uppgift.json": {
+      "bytes": 1596,
+      "sha256": "9a826c369288d439cc82622ded100e67f4c48c360ed27edd3ccf8479c1409d50"
+    },
+    "docs/reviews/11-att-valja-ratt-nasta-steg.json": {
+      "bytes": 1645,
+      "sha256": "ffc93e397176bd52cce83a904791829f9249ead7258519eaaedaac7339613a84"
+    },
+    "docs/reviews/README.md": {
+      "bytes": 772,
+      "sha256": "5840e53d4df2e7685240bbdbaeee7d0e1e852e730bc22745182f2a64a5daaee4"
+    },
+    "docs/slutgranskning-r0024.md": {
+      "bytes": 4976,
+      "sha256": "dddc8906fbf1acdcae5aee55268d163495ee6bf6ef0743eb0031ba13406c24bd"
+    },
+    "docs/terminologi.md": {
+      "bytes": 6399,
+      "sha256": "ced1d7e06342bee98e779f401c1719bea80a21278986380117304cdbdde98712"
+    },
+    "examples/README.md": {
+      "bytes": 71,
+      "sha256": "3f3e5d2ac0800028ddb7bf134d332ed4b5ff3b629246b221606a014c05d5f550"
+    },
+    "exercises/README.md": {
+      "bytes": 85,
+      "sha256": "ba26bddfad8c4db99c5c8dd518f96af7dcf1c4a6264dd355f5d227940e55ec6b"
+    },
+    "exports/README.md": {
+      "bytes": 105,
+      "sha256": "abaaec6a496f86407595ef68af33ab4abe94a9a03c7f4410d1a0c51815db0c89"
+    },
+    "exports/exportlogg.md": {
+      "bytes": 93,
+      "sha256": "f46cb68df4c310e24d7ceb62ba1f6c4eed5c6bb9ff11c7c5ff85dd33b3094d58"
+    },
+    "project-index.md": {
+      "bytes": 3645,
+      "sha256": "2fd3a9fbe31019e96cf1fa1730b1f0dc7712d5dc33f5cd9969710dc23bcbaf5d"
+    },
+    "publishing/build-notes.md": {
+      "bytes": 831,
+      "sha256": "994e77b51115a1869ba8d6fefb0e67627106df296394f42c0934de14cad55f73"
+    },
+    "publishing/epub.css": {
+      "bytes": 569,
+      "sha256": "aee9b81d1a7fab1d266527b0cfd80675ff5b7bd8bca83ddae2c98bb86d2badef"
+    },
+    "publishing/fix-epub-after-pandoc.py": {
+      "bytes": 4105,
+      "sha256": "ccd52f3320b809eccc24d0e314893f7ec70681e145c4bfd94d3b23424451b0b3"
+    },
+    "publishing/pdf-filter.lua": {
+      "bytes": 2187,
+      "sha256": "d1386495705a3f519f872f9e355869341e78b5bc0d47b6ed6137f86cc6229a65"
+    },
+    "publishing/pdf-template.tex": {
+      "bytes": 3072,
+      "sha256": "1204d93c4717d6bfc67fed7f105564319dada7efad617141d1da50b32e548450"
+    },
+    "revision-log.md": {
+      "bytes": 14854,
+      "sha256": "4996b4fe9fd864136c0bb4f9b1dcd56d5022796361fc3737a7a30bd513c6bdb2"
+    },
+    "scripts/book_references.py": {
+      "bytes": 4622,
+      "sha256": "28b5176acb62d07b16c5a2136044d432009acc8e57373abf9d82ac567e9e4bb6"
+    },
+    "scripts/build_book.py": {
+      "bytes": 1498,
+      "sha256": "1a9e00d2fff97e27ab6841b15fc6c37139a5a8a1a1bf04b59b3a62531f81e973"
+    },
+    "scripts/chapter_review.py": {
+      "bytes": 5940,
+      "sha256": "418e285884f0a8ea4a5c31aa2619a2b402a740e680fe4c8a96bab6347602e5d3"
+    },
+    "scripts/export-book.py": {
+      "bytes": 9202,
+      "sha256": "b3fce47d4a715f664bae465fe769761009e44596751abba941492c474a8c5497"
+    },
+    "scripts/export-book.sh": {
+      "bytes": 89,
+      "sha256": "cfb607edff8c8da14ec86e89352efabe27a06807666fc722ea4594e19de62b31"
+    },
+    "scripts/project_integrity.py": {
+      "bytes": 6443,
+      "sha256": "97f26bb87bf257e431128c520e00f21005ca81b7ba719c14a56e6325a0926170"
+    },
+    "scripts/render_diagrams.py": {
+      "bytes": 4993,
+      "sha256": "ee5306ab35f78d5ab0baef4b5225bd92ae74b370cbc6d2586aee892dac7406c8"
+    },
+    "scripts/validate_exports.py": {
+      "bytes": 4467,
+      "sha256": "2bed75c2b92cd913908b0cd0c7e38924bde53ca153feebf8dd6f88ad4714dbb7"
+    },
+    "scripts/validate_project.py": {
+      "bytes": 7832,
+      "sha256": "7bfc4efda9947a855c979019864423f80d47e531d92855d02f64643a0887208a"
+    }
+  },
+  "updated_at": "2026-11-05T05:25:17Z"
+}
